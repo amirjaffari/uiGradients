@@ -557,6 +557,10 @@
     {
         "name": "Egg Plant",
         "colors": ["#9C27B0", "#8BC34A"]
+    },
+    {
+        "name": "Egg Plant",
+        "colors": ["#9C27B0", "#8BC34A"]
     }
 
 ]
